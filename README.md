@@ -23,5 +23,5 @@ while me.alive:
 [![Generic badge](https://img.shields.io/badge/desktop-gnome-darkblue.svg)](https://www.gnome.org/)
 [![Generic badge](https://img.shields.io/badge/language-python-yellow.svg)](https://shields.io/)
 <br>
-[![Generic badge](https://img.shields.io/badge/Made_With-Love.svg)](https://www.python.org/)
+[![Generic badge](https://img.shields.io/badge/Made_With-Love-red.svg)](https://www.python.org/)
 </div>
