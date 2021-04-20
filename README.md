@@ -9,7 +9,7 @@ def code(language):
   
 while me.alive:
   me.eat()
-  me.code(me.languages.python)
+  code(me.languages.python)
   me.sleep()
 ```
 </div>
