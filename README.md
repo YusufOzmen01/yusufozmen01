@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>SJ</h1>
 ```python
 from myLife import coding, me
 
