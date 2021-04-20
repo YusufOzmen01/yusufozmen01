@@ -2,7 +2,6 @@
 
 ```python
 from myLife import coding, me
-import random
 
 def code(language):
   coding.code(language)
