@@ -20,6 +20,10 @@ while me.alive:
 <br>
 <br>
   
-![passed](https://camo.githubusercontent.com/1824a8ce41a8b45ab8d5a2a5d147583a924cbfe9fb7cab7122603492d1df9e38/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e706e673f763d313033)
 
+[![Generic badge](https://img.shields.io/badge/distribution-arch-cyan.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/desktop-gnome-darkblue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/language-python-yellow.svg)](https://shields.io/)
+<br>
+[![Generic badge](https://img.shields.io/badge/opensource-♥-red.svg)](https://shields.io/)
 </div>
