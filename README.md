@@ -19,9 +19,9 @@ while me.alive:
 <br>
   
 
-[![Generic badge](https://img.shields.io/badge/distribution-arch-cyan.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/desktop-gnome-darkblue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/distribution-arch-cyan.svg)](https://archlinux.org/)
+[![Generic badge](https://img.shields.io/badge/desktop-gnome-darkblue.svg)](https://www.gnome.org/)
 [![Generic badge](https://img.shields.io/badge/language-python-yellow.svg)](https://shields.io/)
 <br>
-[![Generic badge](https://img.shields.io/badge/opensource-♥-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/MadeWith-Love.svg)](https://www.python.org/)
 </div>
