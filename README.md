@@ -1,27 +1,22 @@
-<div align="center">
+```javascript
+import { Me, Coding } from "sergio-marquina";
   
-```python
-from myLife import coding, me
+const me = Me();
 
-def code(language):
-  coding.code(language)
-  
-while me.alive:
-  me.eat()
-  code(me.languages.python)
-  me.sleep()
+me.get("coding", (req, res) => {
+  res.send(Coding.from(me).currentLanguages()); /* ["JavaScript, "Golang" ]*/
+})
+
+me.listen(80, () => console.log("Ready to code!"));
 ```
-</div>
+
 <div align="center">
 <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" height="175" width="175" style="margin: 10px">
-<img src="http://2.bp.blogspot.com/-A5NSDMQ5bwo/Vi2VNq6kgTI/AAAAAAAAABg/X93YbJLOuR0/s1600/old_logo.png" height="175" width="175" style="margin: 10px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Antu_org.kde.plasma.kicker.svg/1200px-Antu_org.kde.plasma.kicker.svg.png" height="175" width="175" style="margin: 10px">
 <br>
 <br>
-  
 
 [![Generic badge](https://img.shields.io/badge/distribution-arch-cyan.svg)](https://archlinux.org/)
-[![Generic badge](https://img.shields.io/badge/desktop-gnome-darkblue.svg)](https://www.gnome.org/)
-[![Generic badge](https://img.shields.io/badge/language-python-yellow.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/desktop-plasma-darkblue.svg)](https://kde.org/plasma-desktop/)
 <br>
-[![Generic badge](https://img.shields.io/badge/made_with-love-red.svg)](https://www.python.org/)
 </div>
