@@ -1,22 +1,26 @@
-```javascript
-import { Me, Coding } from "sergio-marquina";
-  
-const me = Me();
+```c
+#include <stdio.h>
 
-me.get("coding", (req, res) => {
-  res.send(Coding.from(me).currentLanguages()); /* ["JavaScript, "Golang" ]*/
-})
+int main(void) {
+    printf("Kitaaaaaaaaan~\n");
 
-me.listen(80, () => console.log("Ready to code!"));
+    return 0;
+}
 ```
-
 <div align="center">
-<img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" height="175" width="175" style="margin: 10px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Antu_org.kde.plasma.kicker.svg/1200px-Antu_org.kde.plasma.kicker.svg.png" height="175" width="175" style="margin: 10px">
+<img src="https://static.wikia.nocookie.net/bocchi-the-rock/images/6/68/Kessoku_Band_Logo.svg/revision/latest/thumbnail/width/360/height/360?cb=20221218052027 height="175" width="175" style="margin: 10px">
 <br>
 <br>
 
-[![Generic badge](https://img.shields.io/badge/distribution-arch-cyan.svg)](https://archlinux.org/)
-[![Generic badge](https://img.shields.io/badge/desktop-plasma-darkblue.svg)](https://kde.org/plasma-desktop/)
+*At the edge of this world, I finally found somewhere that I belong to*
+<br>
+*Somewhere that makes my inaudible voice be louder than a scream*
+<br>
+*Somewhere that pushes me as I am about to fall*
+<br>
+*Somewhere that I can just, let the strings be my voice*
+
+[![Generic badge](https://img.shields.io/twitter/follow/marquina_osu)](https://x.com/marquina_osu)
+
 <br>
 </div>
